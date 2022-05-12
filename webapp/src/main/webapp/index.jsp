@@ -1,6 +1,6 @@
 
-<h1> Welcome To New DevOps Training</h1>
-<h1> Welcome To Training</h1>
-<h2> You see this because you have successfully installed Tomcat and  </h2>
-<h3> Congratulations and keep learning. The IT world is yours</h3>
-<p1> Test if webook is working with push trigger </p1>
+<h1> Welcome To DevOps Training</h1>
+<h1> This Training will refresh your memory on DevOPs</h1>
+<h2> <i> As well as improve ypur DevOPs skill </i>  </h2>
+<p> </p>
+<h3> Dankish </h3>
